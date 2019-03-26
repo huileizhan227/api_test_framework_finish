@@ -31,5 +31,5 @@ smtp_user = 'test_results@sina.com'
 smtp_password = 'hanzhichao123'
 
 sender = smtp_user  # 发件人
-receiver = '2375247815@qq.com'  # 收件人
+receiver = '374826581@qq.com'  # 收件人
 subject = '接口测试报告'  # 邮件主题
